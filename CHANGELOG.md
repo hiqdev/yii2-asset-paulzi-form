@@ -3,6 +3,7 @@ hiqdev/yii2-asset-paulzi-form changelog
 
 ## Under development
 
+- inited
 
-## Development started
+## Development started 2015-07-09
 
