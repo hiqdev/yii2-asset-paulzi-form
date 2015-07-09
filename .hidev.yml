@@ -1,0 +1,16 @@
+package:
+    name:           yii2-asset-paulzi-form
+    namespace:      hiqdev\assets\paulziform
+    title:          Yii2 asset for PaulZi Form JS library
+    type:           yii2-extension
+    keywords:       paulzi-form, asset, extension, yii2
+    year:           2015
+
+composer.json:
+    require:
+        bower-asset/paulzi-form:    "~2.0"
+    extra:
+        asset-installer-paths:
+            npm-asset-library:      vendor/npm
+            bower-asset-library:    vendor/bower
+
