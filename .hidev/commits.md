@@ -1,8 +1,13 @@
 hiqdev/yii2-asset-paulzi-form commits history
 ---------------------------------------------
 
-## 2.4.1 Under development
+## Under development
 
+
+## 2.4.1 2015-09-09
+
+- Changed version to 2.4.1
+    - 8284dcc 2015-09-09 changed version to 2.4.1 (sol@hiqdev.com)
 
 ## 2.4.0 2015-09-09
 
