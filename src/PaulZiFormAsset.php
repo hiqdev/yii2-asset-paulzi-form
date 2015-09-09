@@ -17,19 +17,19 @@ namespace hiqdev\assets\paulziform;
 class PaulZiFormAsset extends \yii\web\AssetBundle
 {
     /**
-     * @inheritdoc
+     * {@inheritdoc}
      */
     public $sourcePath = '@bower/paulzi-form';
 
     /**
-     * @inheritdoc
+     * {@inheritdoc}
      */
     public $js = [
         'paulzi-form.min.js',
     ];
 
     /**
-     * @inheritdoc
+     * {@inheritdoc}
      */
     public $depends = [
         'yii\web\JqueryAsset',
