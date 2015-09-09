@@ -5,3 +5,7 @@ package:
     type:           yii2-extension
     keywords:       paulzi-form, asset, extension, yii2
     year:           2015
+
+require:
+    hiqdev/hidev-config:        "*"
+    hiqdev/hidev-config-php:    "*"
