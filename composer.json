@@ -44,7 +44,7 @@
         }
     ],
     "require": {
-        "bower-asset/paulzi-form": "2.4.1"
+        "bower-asset/paulzi-form": "2.4.3"
     },
     "autoload": {
         "psr-4": {
